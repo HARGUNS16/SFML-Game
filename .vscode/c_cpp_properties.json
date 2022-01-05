@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/src/include/",
+                "D:GameFinal/SFML Project/**"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
